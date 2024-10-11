@@ -1,5 +1,5 @@
-## Ramadan Marketing Campaign Analyze
-# Introduction: 
+# Ramadan Marketing Campaign Analyze
+## Introduction: 
 A leading company launched a digital marketing campaign during Ramadan across three major
 platforms: TikTok, Meta (including Facebook and Instagram), and Snapchat. The objective was
 to boost brand awareness, engagement, and conversions through targeted advertisements.
@@ -7,7 +7,7 @@ The campaign involved different strategies and ads targeting various demographic
 place), with performance data collected from these platforms. This report outlines the steps
 taken to analyze this data, uncover trends, and provide insights for future improvement.
 
-# Objective of the Analysis:
+## Objective of the Analysis:
 The primary goal of this analysis is to assess the performance of the Ramadan campaign by
 examining key metrics across TikTok, Meta, and Snapchat. Using Excel, the analysis focuses on
 identifying trends, determining the most successful strategies, and automating repetitive tasks
@@ -16,7 +16,7 @@ for more efficient reporting. Key areas of the analysis include:
 2. Identifying which platform had the best performance in terms of brand engagement and conversions.
 3. Use Macro to refresh the data.
 
-# Analyze:
+## Analyze:
 General Analyze:
 1. Among three platform Tiktok give best value for money as more people visit to the tiktok
 platform.
